@@ -54,7 +54,7 @@ public class LinkedList7 {
         list.push(2);
         list.push(2);
 
-        System.out.println(list.freq(2));
-        System.out.println(freqRecursive(list.head,2));
+        System.out.println("Using normal: " + list.freq(2));
+        System.out.println("Using recursive: " + freqRecursive(list.head,2));
     }
 }
