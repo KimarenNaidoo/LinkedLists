@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f221f299-2408-45a2-83ff-ea87712c0faf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LinkedList10.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LinkedList3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LinkedList9.java" afterDir="false" />
     </list>
@@ -15,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList9.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+            <state relative-caret-position="359">
+              <caret line="113" column="36" selection-start-line="113" selection-start-column="36" selection-end-line="113" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -48,6 +49,7 @@
         <option value="$PROJECT_DIR$/src/LinkedList7.java" />
         <option value="$PROJECT_DIR$/src/LinkedList8.java" />
         <option value="$PROJECT_DIR$/src/LinkedList9.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList10.java" />
       </list>
     </option>
   </component>
@@ -62,6 +64,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,12 +82,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598244097092" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598264584609" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -98,9 +100,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedList9">
-    <configuration name="LinkedList5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList5" />
+  <component name="RunManager" selected="Application.LinkedList10">
+    <configuration name="LinkedList10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList10" />
       <module name="Deletion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList10" />
         <item itemvalue="Application.LinkedList9" />
         <item itemvalue="Application.LinkedList8" />
         <item itemvalue="Application.LinkedList7" />
         <item itemvalue="Application.LinkedList6" />
-        <item itemvalue="Application.LinkedList5" />
       </list>
     </recent_temporary>
   </component>
@@ -159,9 +161,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26595744" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26975685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -170,7 +171,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20294599" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7266776" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -265,8 +266,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="512">
           <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="113" column="36" selection-start-line="113" selection-start-column="36" selection-end-line="113" selection-end-column="36" />
         </state>
       </provider>
     </entry>
